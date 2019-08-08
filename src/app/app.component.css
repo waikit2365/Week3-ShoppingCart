@@ -1,0 +1,9 @@
+#nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    height: 5vh;
+    font-size: 24px;
+    background-color: black;
+    color: white;
+}
